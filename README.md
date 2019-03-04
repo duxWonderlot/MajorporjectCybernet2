@@ -1,2 +1,2 @@
-# MajorporjectCybernet2
+# Project Cybernet
  project file
